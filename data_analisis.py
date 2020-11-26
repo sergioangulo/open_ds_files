@@ -94,6 +94,10 @@ def showScatterPlots(df):
     #plt.title('')
     plt.show()
 
+def lin_reg(x): # Una posible mejora, es que reciba los betas por parametros de la función
+    y_hat = (beta_1 * x) + beta_0 #Aplicamos la forma de la regresión lineal 
+    return y_hat
+    
 def getMetricasErrorRegresion(y, y_tongo, name):
   mape = np.sum(np.abs((y - y_tongo)/y)) / len(y)
   mse = mean_squared_error(y , lin_reg(y_tongo))
