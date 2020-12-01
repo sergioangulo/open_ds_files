@@ -116,8 +116,8 @@ def showScatterPlots2(df, n_cols=1, row_size=10, col_size=5):
         #print(f"\n\n")
         ax[i,j].scatter(df[a],df[b])
         ax[i,j].title.set_text(f"[{a}] vs [{b}]")
-        ax[i,j].xlabel([f"[{a}]"])
-        ax[i,j].ylabel([f"[{b}]"])
+        ax[i,j].set_xlabel([f"[{a}]"])
+        ax[i,j].set_ylabel([f"[{b}]"])
         #plt.title('')
       else:
         break
