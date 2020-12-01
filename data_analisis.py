@@ -94,6 +94,35 @@ def showScatterPlots(df):
     #plt.title('')
     plt.show()
     
+def showScatterPlots2(df, n_cols=1, row_size=10, col_size=5):
+  lista=imprime_ordenado(combinaciones(df.columns,2))
+  largo=len(lista)
+  extra_row=0
+  if largo%n_cols!=0:
+    extra_row=1
+  n_rows=int(largo/n_cols)+extra_row
+
+  fig,ax = plt.subplots(n_rows,n_cols,figsize=(row_size*n_rows,col_size*n_cols)) #Definiremos 1 fila y 2 columnas
+  col_cntr=0
+  for i in range(n_rows):
+    for j in range(n_cols):
+      if len(lista)>0:
+        par = lista.pop(0)
+        a=par[0]
+        b=par[1]
+        if df[a].dtype==object or df[b].dtype==object:
+          print(f"Se omite [{a}] vs [{b}]")
+          continue
+        #print(f"\n\n")
+        ax[i,j].scatter(df[a],df[b])
+        ax[i,j].title.set_text(f"[{a}] vs [{b}]")
+        ax[i,j].set_xticklabels([f"[{a}]"])
+        ax[i,j].set_yticklabels([f"[{b}]"])
+        #plt.title('')
+      else:
+        break
+  plt.show() 
+    
 def getMetricasErrorRegresion(y, y_tongo, name):
   mape = np.sum(np.abs((y - y_tongo)/y)) / len(y)
   mse = mean_squared_error(y , y_tongo)
