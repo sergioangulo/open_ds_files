@@ -1,0 +1,941 @@
+-- http://www.registrosocial.gob.cl/que-es#top
+¿Qué es el Registro Social de Hogares? 
+
+El Registro Social de Hogares es un sistema de información cuyo fin es apoyar los procesos de selección de beneficiarios de un conjunto amplio de subsidios y programas sociales.
+El Registro es construido con datos aportados por el hogar y bases administrativas que posee el Estado, proveniente de diversas instituciones
+
+
+Factores que determinan la Calificación Socioeconómica? 
+Suma de ingresos laborales, de pensión y de capital de todos los integrantes del hogar. En caso de ser estudiantes que además trabajen (hasta los 24 años), se considera solo la parte del ingreso que excede los dos sueldos mínimos.
+Número de integrantes del hogar.
+Características de los integrantes del hogar: edad, discapacidad o dependencia.
+Evaluación de bienes y servicios a los que accede o posee un hogar y que permiten inferir su nivel socioeconómico al ser contrastado con el ingreso real percibido por el hogar.
+ 
+¿Qué es la Calificación Socioeconómica?
+Dentro de la información disponible en el Registro Social de Hogares, se incluye la Calificación Socioeconómica, que ubica a cada hogar en un tramo de ingresos.
+Recuerda que puedes realizar tus solicitudes en línea accediendo con tu ClaveÚnica desde aquí
+
+
+-- http://www.registrosocial.gob.cl/puntos-atencion#top
+Puntos de atención
+
+Minicipalidades
+Oficinas de Estratificación Social o Registro Social de Hogares:
+Podrás realizar todo tipo de trámites de tu Registro Social de Hogares o podrás hacer el ingreso a él. Conoce la ubicación de las oficinas de Estratificación Social de tu Municipalidad. 
+
+Delegaciones Provinciales
+Podrás obtener tu cartola hogar y conocer tu calificación socioeconómica.
+
+Módulos de autoatención 
+Podrás obtener tu cartola hogar y conocer tu calificación socioeconómica.
+
+Centros de Familia Digital
+Encuentra orientación y ayuda para realizar tus trámites del Registro Social de Hogares. 
+
+Chile Atiende
+Sucursales de IPS-ChileAtiende y Call Center:
+Podrás obtener tu cartola hogar y conocer tu calificación socioeconómica.
+Redes Sociales: podrás recibir orientación de trámites de tu Registro Social de Hogares.
+
+Call Center
+Atención telefónica 101, OPCIÓN 6, marcar 1. 
+
+A través del número telefónico 101 podrás solicitar orientación sobre los servicios que entrega ChileAtiende, entre ellos, del Registro Social de Hogares.
+
+Horario de atención
+Lunes a viernes, de 8:00 a 18:00 horas.
+
+Redes sociales
+Ir a Facebook: /ChileAtiende
+Ir a Twitter: @ChileAtiende
+Ir a Instagram: @chileatiende
+
+
+-- http://www.registrosocial.gob.cl/atencion-telefonica#top
+Atencion Telefonica
+Este servicio entrega respuestas a requerimientos de la ciudadanía y permite aclarar sus dudas e inquietudes sobre el Registro Social de Hogares.
+Para la atención hemos habilitado el número 800 104 777 al que usted puede hacer llamadas gratuitas desde teléfonos fijos y celulares en días hábiles de lunes a viernes desde las 9:00 hasta las 19:00 horas. Además, en este servicio usted podrá solicitar el envío por correo electrónico de la Cartola Hogar del Registro Social de Hogares.
+
+800 104 777 opción 2
+Horario de atención: de lunes a viernes de 9:00 a 19:00 horas en días hábiles
+En la atención telefónica del Registro Social de Hogares, usted podrá solicitar:
+Información general sobre el Registro Social de Hogares.
+Información de la Cartola Hogar.
+Envío de Cartola Hogar por e-mail.
+Envío de Guías Ciudadanas para realizar trámites en línea.
+Información sobre el estado de las solicitudes.
+-- http://www.registrosocial.gob.cl/app-movil#top
+Aplicación Móvil:
+La aplicación móvil está diseñada para sistema Android versión 4.4 o superior. Para acceder, el usuario debe instalar la aplicación en su dispositivo móvil (celular o tablet), que está disponible en la tienda virtual Google Play Store. Por medio de esta aplicación se puede:
+Conocer la calificación socioeconómica de su hogar y obtener su Cartola hogar en formato pdf, previa validación de su identidad por medio de la Clave Única.
+Llamar al servicio telefónico del RSH: presionando el botón del número telefónico del Call Center (800 104 777) se iniciará en forma inmediata una comunicación telefónica para resolver dudas y hacer consultas.
+Informarse del sistema a través de Preguntas frecuentes: se desplegarán preguntas con sus respectivas respuestas ordenadas por categorías, sobre las materias más relevantes del Registro Social de Hogares.
+
+-- http://www.registrosocial.gob.cl/consultas-reclamos-o-sugerencias#top
+Consultas, Reclamos y Sugerencias
+El Ministerio de Desarrollo Social y Familia dispone del Sistema Integral de Atención Ciudadana para que los ciudadanos realicen consultas, reclamos o sugerencias. Para ingresar su consulta es necesario que se registre.
+Las respuestas entregadas por este medio de atención, garantizan el derecho a la privacidad conforme lo establece la ley N°19.628 y el Ministerio de Desarrollo Social y Familia se compromete a entregar respuesta claras y precisas en 10 días hábiles como lo establece el artículo 24 de la ley N° 19.880.
+En las respuestas, podrá identificar claramente al funcionario responsable de resolver sus consultas.
+Para ingresar una consulta, reclamo o sugerencia sobre el Registro Social de Hogares, acceda con su ClaveÚnica en este vínculo. En un plazo máximo de 10 días enviaremos respuesta a su requerimiento al correo que esté registrado.
+Si desea obtener ayuda de cómo realizar este trámite, puede leer la Guía Ciudadana de Ingreso al SIAC descargando el documento
+Adicionalmente, el Ministerio de Desarrollo Social y Familia cuenta con OIRS, oficinas para la atención presencial en cada una de las capitales regionales ubicadas en la Secretaria Regional Ministerial de Desarrollo Social y Familia (SEREMIA de Desarrollo Social).
+
+-- http://www.registrosocial.gob.cl/preguntas-frecuentes-web#top
+Preguntas Frecuentes
+1) ¿Cómo saber si estoy en el RSH?
+Puedes revisar si es parte del Registro Social de Hogares en el sitio web www.registrosocial.gob.cl haciendo clic en el ícono MI REGISTRO, accediendo con Clave Única del Registro Civil o con RUN, fecha de nacimiento y serie< del carnet de identidad.
+
+Si cuenta con Registro Social de Hogares, se le desplegará la información de su hogar. Si no cuenta con Registro, en su pantalla se desplegará un mensaje informando de esta situación y el sistema le permitirá iniciar la solicitud de Ingreso al Registro Social de Hogares.
+
+2) ¿Cómo puedo ser parte del Registro Social de Hogares?
+Existen dos alternativas para hacer tu Ingreso en el Registro Social de Hogares y ambas se pueden tramitar por internet (www.registrosocial.gob.cl) o en el municipio correspondiente a tu domicilio:
+
+Opción 1.-Cuando el ingreso lo deben hacer todos los integrantes de tu hogar:
+Debes hacer tu solicitud de ingreso. El documento que emite el sistema debe ser firmado por todos los adultos del hogar, acompañar el carnet de identidad de todos los adultos y el certificado de nacimiento de los menores. Una vez hecho esto, un funcionario de tu municipio te contactará para programar su visita a tu casa para realizar la encuesta.
+Opción 2.- Cuando quieres ser incorporado a un hogar que ya está en el Registro Social de Hogares.
+Un integrante de tu hogar mayor de edad que ya forma parte del Registro debe hacer la solicitud de tu ingreso. Debes adjuntar el carnet de identidad de ambos (tú y el solicitante), y firmar el documento que emite el sistema. Al mes siguiente de que en la municipalidad se apruebe la solicitud, tú ya aparecerás como integrante del hogar al que te sumaste.
+3) ¿Quiénes pueden formar parte del Registro Social de Hogares?
+Pueden ser parte del Registro Social de Hogares, todos los hogares del país con integrantes que cuenten con Rol Único Nacional (RUN) o carnet de identidad vigente, independiente de su condición socioeconómica o nacionalidad. Por lo tanto, los extranjeros que cuentan con Rol Único Nacional (RUN) o cédula de identidad chilena vigente definitiva o temporal, pueden ser parte del Registro Social de Hogares
+
+4) Clave única: cómo obtenerla o cambiarla?
+Toda persona mayor de 14 años puede obtener Clave Única.
+
+Si tu carnet de identidad vigente lo obtuviste antes de 4 años, ahora puedes crear tu ClaveÚnica ingresando a la página claveunica.gob.cl, accediendo a Recupera tu ClaveÚnica.
+Otras opciones para crear tu ClaveÚnica son, concurrir con tu carnet de identidad y sabiendo tu dirección de correo electrónico a las oficinas del Registro Civil, sucursales ChileAtiende (IPS), Infocentros del INJUV o a los módulos o tótem multiservicio instalados en Fonasa, ChileAtiende, Municipios o en el mismo Registro Civil.
+
+Si creas tu clave en los módulos o tótem multiservicio, la podrás usar de inmediato. Si optas por otra opción, el/la funcionario/a te consultará correo electrónico y te hará entrega de un comprobante con un Código de Activación. Con el código, Ingresa en www.registrocivil.cl y pulsa el link Activar clave única, e ingresa tu RUN y el código de activación. Se abrirá una ventana con tus datos y el sistema te solicitará crear tu Clave Única.
+
+¡Ya creaste tu claveÚnica. Ahora úsala para acceder a tu Registro Social de Hogares!
+
+5) Tengo Registro Social de Hogares ¿Qué debo hacer?
+Siempre debes revisar y actualizar si corresponde, los datos que muestra el Registro, incluyendo el tramo de calificación socioeconómica. Para postular a beneficio del Estado es fundamental que si tu hogar ya es parte del Registro Social de Hogares, mantengas tus datos y de otros integrantes de tu hogar actualizados. Si los datos de tu hogar no son los que aparecen en el sistema, debes actualizarlos o aportar información adicional que el sistema del Registro usará para modificar la información. Tienes que saber que tener tu registro al día, es tu responsabilidad.
+
+6) ¿Qué información puedo encontrar en mi Registro Social de Hogares?
+El Registro Social de Hogares contiene información declarada por los hogares complementada con datos extraídos de bases de datos del Estado. La información declarada por los hogares corresponde a domicilio; integrantes del hogar; antecedentes educacionales; de salud, vivienda y de ocupación e ingresos, entre otros. Mientras que los datos de bases del Estado corresponden a ingresos por trabajo; ingresos de capital; pensiones; cotizaciones a fondos de pensiones y de salud; información de patrimonio (vivienda, vehículos), entre otros; esta información proviene de distintas instituciones como el Servicio de Registro Civil e Identificación, Servicio de Impuestos Internos (SII), Superintendencia de Pensiones, Superintendencia de Salud, Administradora de Fondo de Cesantía, Fondo Nacional de Salud (FONASA), Instituto de Previsión Social (IPS), y Ministerio de Educación (MINEDUC); entre otros.
+
+7) ¿Cómo puedo acceder a la información del hogar contenida en el Registro Social de Hogares o realizar trámites?
+Cualquier integrante del hogar mayor de edad, que forme parte del Registro puede acceder a la información a través de las siguientes opciones:
+
+Ingresando al sitio web (www.registrosocial.gob.cl) con ClaveÚnica, podrás conocer la información registrada y realizar trámites en línea sin necesidad de acudir al municipio. Tú municipio revisará y aprobará tu solicitud si subiste toda la documentación requerida y firmada por quienes corresponde.
+Acudiendo a tu municipalidad donde también puedes realizar los trámites y solicitudes presencialmente.
+Consultas, reclamos o sugerencias, las puedes hacer llamando al 800 104 777,
+Concurriendo a las oficinas de ChileAtiende.
+Ingresando tu consulta, reclamo o sugerencia a través de la página web www.registrosocial.gob.cl en “ Encuentra Ayuda”
+8) ¿Cuáles son las solicitudes que debo realizar para mantener actualizada mi información?
+Puedes realizar los siguientes trámites para mantener actualizado tu Registro Social de Hogares:
+
+Actualización de información del formulario: permite modificar los datos declarados por algún integrante del hogar que está en el Registro Social de Hogares. Con este trámite puedes ingresar o desvincular integrantes del hogar y cambiar domicilio. Para más información, ingresa aquí.
+Actualización de datos administrativos: permite incorporar información que aún no se ve reflejada en el Registro Social de Hogares debido al desfase de la información que proviene de bases de datos del Estado. Para más información, ingresa aquí.
+Complemento de información: permite agregar información en ámbitos relacionados con la coherencia entre el tramo de Calificación Socioeconómica y la calidad de vida del hogar. Para más información, ingresa aquí.
+9) ¿Por qué el Registro Social de Hogares señala que tengo ingresos si realicé el trámite de actualización de ocupación?
+Si bien informaste al Registro que tu situación actual es de cesantía, es necesario que también informes que no percibes ingresos como trabajador o trabajadora independiente e y/o independiente. Con esta solicitud actualizarás la información que es aportada por bases administrativas del Estado, de manera que anticiparás al reporte que realizan las bases de datos que entrega cada institución al Registro Social de Hogares.
+
+Conoce el paso a paso del trámite actualización de ingresos, ingresa aquí..
+
+-- http://www.registrosocial.gob.cl/solicitud-supervision
+Ingrese una solicitud de denuncias
+Ingresar una solicitud de denuncias permite dar a conocer a las autoridades respecto de anomalías o irregularidades asociadas al Registro Social de Hogares.
+Con el objetivo de que su denuncia pueda ser tramitada, se requiere que entregue todos los antecedentes solicitados en el formulario al que accederá a continuación.
+
+Se solicita su identificación con el fin de que el Ministerio establezca contacto con usted, en caso de que sea requerido, y para resguardar una posible suplantación de identidad.
+
+El Ministerio mantendrá la confidencialidad de su identidad y de la información entregada por usted, conforme a lo establecido en la Ley 19.628 que regula el tratamiento de datos de carácter personal por parte de organismos públicos.
+
+-- http://www.registrosocial.gob.cl/ingreso-al-registro-social-de-hogares#top
+Ingreso al Registro Social de Hogares
+
+Descripción del trámite
+Permite solicitar el ingreso de un hogar que no cuenta con Registro Social de Hogares o nuevos hogares que se forman a partir de un otro ya existente en el Registro Social de Hogares.
+
+Puede realizar este trámite a través de las siguientes opciones:
+
+En línea:
+Ingresa con ClaveÚnica en el sitio web del Registro Social de Hogares o en el sitio web de Clase Media Protegida.
+En oficina:
+Directamente en la municipalidad correspondiente al domicilio del hogar
+Debido a la contingencia por el Coronavirus (COVID-19), las visitas domiciliarias quedan suspendidas hasta nuevo aviso. Las solicitudes serán aprobadas de forma excepcional, postergando la visita del encuestador o encuestadora municipal hasta que termine la emergencia sanitaria.
+
+El trámite está disponible durante todo el año.
+
+Definición de Hogar
+Un hogar es aquella persona o grupo de personas, unidas o no por un vínculo de parentesco, que comparten un presupuesto de alimentación común. Puede ocurrir que en un determinado domicilio exista uno o más. Sin embargo, un hogar no puede ocupar más de una vivienda.
+
+¿A quién está dirigido?
+El trámite de ingreso puede ser solicitado por cualquier integrante mayor de 18 años de un hogar que no cuenta con información en el Registro Social de Hogares (RSH) o aquellos que requieran crear un nuevo Registro atendiendo a cambios en la composición familiar. El municipio coordinará una visita domiciliaria y un encuestador o encuestadora aplicará en terreno el formulario de ingreso al RSH, procedimiento que debido a la contingencia por el Coronavirus (COVID-19), las visitas domiciliarias quedan suspendidas hasta nuevo aviso. Las solicitudes serán aprobadas de forma excepcional, postergando la visita del encuestador o encuestadora hasta que termine la emergencia.
+
+IMPORTANTE:
+
+Para la solicitud de ingreso al RSH de menores de 18 años institucionalizados que se encuentran bajo cuidado alternativo residencial por una medida judicial de protección, la gestión la realiza cualquier funcionario de la institución, quien será además el informante de dicho registro. La resolución judicial es obligatoria.
+
+¿Qué necesito para hacer el trámite?
+Si deseas realizar el trámite en línea debe tener ClaveÚnica. Revise cómo obtenerla.
+
+Para tramitar la solicitud, debes adjuntar o presentar los siguientes documentos:
+
+Formulario de solicitud (firmado por el o la solicitante y por todas las personas adultas que componen el hogar). Si realiza el trámite en línea, este formulario se despliega en el mismo sistema. Debe descargarlo, imprimirlo, completarlo y adjuntarlo en el mismo sitio web.
+Copia de cédula de identidad de quienes firman el formulario.
+Además, para acreditar residencia debes presentar uno de los siguientes documentos y deberás contener el nombre de alguno de las personas integrantes del hogar:
+
+Escritura o certificado de dominio vigente de la propiedad.
+Certificado de avalúo fiscal.
+Boleta de servicios básicos (luz, agua, gas, teléfono), con una antigüedad máxima de 3 meses.
+Contrato de arriendo.
+Certificado de residencia emitido por la junta de vecinos.
+Declaración emitida por la directiva de una comunidad indígena acreditada por la Corporación Nacional de Desarrollo Indígena (CONADI).
+Estado de cuenta emitido por casas comerciales, instituciones bancarias, institución de salud previsional.
+Estado de cuenta emitido por la empresa proveedora de servicios de telefonía (fija o móvil) o de televisión.
+Cartola emitida por la administración de fondo de pensión.
+Si no cuentas con documentación de respaldo para acreditar residencia, la municipalidad deberás realizar una visita domiciliaria sin previo aviso, para certificar la información proporcionada por el o la solicitante, debiendo completar el formulario en esta visita.
+
+Además, para acreditar composición familiar, debes presentar:
+
+Copia de la cédula nacional de identidad de todas las personas adultas que componen el hogar.
+Certificado de nacimiento de los niños y niñas, con subinscripción de “cuidado personal” cuando corresponda.
+Declaración jurada simple con la autorización de desvinculación del niño o niña del o la responsable de su registro de origen (para la incorporación de niños o niñas bajo cuidado personal informal).
+Declaración jurada simple firmada por la persona que se designada como jefe de hogar con la autorización de incorporación de niños o niñas bajo cuidado personal informal.
+¿Cómo y dónde hago el trámite?
+1. En línea
+Reúne los antecedentes requeridos.
+Hace clic en “ir al trámite en línea” en el sitio web del Registro Social de Hogares.
+Una vez en el sitio web, hace clic en “acceder”.
+Escribe tu RUN y ClaveÚnica, y hace clic en “autenticar”. Si no tienes ClaveÚnica, solícitela.
+Hace clic en “regístrate”, selecciona la opción “ingreso al Registro Social de Hogares”, y hace clic en “continuar”.
+Completa la información, adjunta los documentos requeridos, y hace clic en “finalizar ingreso”.
+Como resultado del trámite, habrás solicitado el ingreso al Registro Social de Hogares (RSH).
+IMPORTANTE:
+
+Al finalizar el trámite en línea, se evaluarán los antecedentes.
+Las visita domiciliaria para corroborar la información declarada sobre el domicilio del hogar están suspendidas. Las solicitudes serán aprobadas de forma excepcional hasta que finalice la emergencia sanitaria por el Coronavirus (Covid-19).
+Si no adjuntas todos los documentos, tendrás 30 días de corrido para ingresarlos a la plataforma. Si no cumples con este plazo, el sistema eliminará la solicitud.
+Puedes revisar el estado del trámite en el mismo sistema de registro.
+Si necesitas orientación, puede llamar gratis al número 800 104 777. Horario de atención: de lunes a viernes, de 9:00 a 19:00 horas.
+Recuerda que también puede realizar este trámite en el sitio web de Clase Media Protegida con su ClaveÚnica.
+2. En oficina
+Reúne los antecedentes requeridos.
+Concurre a la municipalidad correspondiente a tu comuna de residencia.
+Explica el motivo de tu visita: solicitar el ingreso en el Registro Social de Hogares.
+Entrega los antecedentes requeridos.
+Como resultado del trámite, habrás solicitado el ingreso al Registro Social de Hogares.
+3. Orientación telefónica
+Si necesitas orientación, puedes llamar gratis al número 800 104 777. Horario de atención: de lunes a viernes, de 9:00 a 19:00 horas.
+
+
+
+-- http://www.registrosocial.gob.cl/actualizacion-del-formulario-rsh
+Actualización del formulario RSH
+Descripción del trámite
+Permite modificar información del formulario previamente declarada por algún integrante de un hogar, y que está ingresada en el RSH o permite actualizar datos del hogar que no provienen de registros administrativos del Estado, sino que fueron declarados por los integrantes del hogar, lo que podría requerir comprobación con visitas domiciliarias de funcionarios o funcionarias municipales.
+
+Las actualizaciones de información que se pueden realizar con este trámite son:
+
+Cambio de domicilio.
+Actualización módulo de vivienda.
+Incorporación de nuevo integrante.
+Desvinculación de integrante.
+Actualización módulo educación.
+Actualización módulo de salud.
+Actualización módulo ocupación e ingresos.
+Debido a la contingencia por el Coronavirus (COVID-19), las visitas domiciliarias quedan suspendidas hasta nuevo aviso. Las solicitudes serán aprobadas de forma excepcional, postergando la visita del encuestador o encuestadora municipal hasta que termine la emergencia sanitaria.En el caso de no contar con la documentación para acreditar residencia, podrá presentar una declaración jurada simple.
+
+Puedes realizar este trámite a través de las siguientes opciones:
+
+En línea:
+Con ClaveÚnica en el sitio web del Registro Social de Hogares o en el sitio web de Clase Media Protegida.
+En oficina:
+Directamente en la municipalidad correspondiente al domicilio del hogar.
+El trámite está disponible durante todo el año.
+
+Información
+Toda información actualizada en el formulario será considerada en la construcción de la calificación socioeconómica. Sin embargo, no necesariamente dicha actualización implicará un cambio en el tramo del hogar.
+
+
+¿A quién está dirigido?
+Este trámite puede ser realizado por cualquier persona mayor de 18 años que integre el hogar correspondiente del Registro Social de Hogares.
+
+¿Qué necesito para hacer el trámite?
+1. Solicitud de incorporación de nuevo integrante:
+Incorporación de niño, niña y adolescentes sin Registro Social de Hogares:
+
+Certificado de nacimiento con la subscripciones correspondientes.
+Declaración Jurada Simple firmada por la jefatura de hogar que indica que el niño o niña es integrante del hogar, con la copia de la cédula nacional de identidad de quien firma el documento o copia del acuerdo en sede de mediación aprobado judicialmente, avenimiento o transacción aprobada judicialmente, acta de conciliación en audiencia, o escritura pública o acta extendida ante cualquier oficial del Registro Civil donde conste que el cuidado persona corresponde al padre, a la madre o a ambos en forma compartida.
+Formulario solicitud de incorporación firmada por la jefatura de hogar y la persona solicitante (si es distinto a la jefatura de hogar) y copia de la cédula nacional de identidad de éstos(as).
+IMPORTANTE:
+
+Para el caso de niños, niñas o adolescentes cuya madre y padre viven separados y ejercen el cuidado personal en forma compartida, solo podrá incorporarse el o la respectivo/a niño o niña al hogar de uno/ de ellos: padre o madre.
+
+En caso de niños, niñas y adolescentes cuya madre y padre vivan separados y hayan acordado el cuidado personal en uno de ellos o de forma compartida, o se aplique la presunción de falta de acuerdo, se entiende que dicho niño, niña o adolescente permanece bajo el cuidado personas del padre o madre con quien esté conviviendo. En este caso, la solicitud de incorporación la deberá realizar el respectivo padre o madre que tenga el cuidado personas bajo las reglas mencionadas anteriormente.
+
+Ingreso y desvinculación de niño, niñas y adolescentes con Registro Social de Hogares:
+
+Certificado de nacimiento con las subinscripciones que corresponda, en caso de proceder.
+Declaración Jurada Simple firmada por la jefatura de hogar que indica que el niño o niña es integrante del hogar, con la copia de la cédula nacional de identidad de quien firma el documento o copia del acuerdo en sede de mediación aprobado judicialmente, avenimiento o transacción aprobada judicialmente, acta de conciliación en audiencia, o escritura pública o acta extendida ante cualquier oficial del Registro Civil donde conste que el cuidado personal corresponde al padre, a la madre o a ambos en forma compartida.
+Declaración Jurada Simple de autorización de desvinculación del hogar de origen con la copia de la cédula de identidad de quien firma el documento.
+Formulario de solicitud incorporación/desvinculación firmada por la jefatura de hogar y la persona solicitante (si es distinto a la jefatura de hogar) cuando sea este quien tenga el cuidado personal y copia de la cédula nacional de identidad de ambos.
+IMPORTANTE:
+
+Para el caso de niños, niñas y adolescentes cuyos padre y madre viven separados y ejercen el cuidado personal de forma compartida, el formulario de incorporación deberá real izarla el respectivo padre o madre que tenga cuidado personal, adjuntando declaración jurada del padre o madre que lo autoriza a desvincularse del hogar de origen.
+
+En el caso que se aplique la presunción del cuidado personal de “falta de acuerdo”, la el formulario de solicitud de incorporación deberá firmarla el respectivo padre o madre que tenga el cuidado personal “por convivencia” adjuntando además un documento que formal que acredite que el niño, niña o adolescente vive con dicho padre o madre (certificado de trabajadora social del municipio, certificado del colegio o escuela que acredite que el niño o la niña vive con dicho padre o madre.
+
+Personas adultas (18 años de edad y más)
+
+Formulario solicitud de incorporación/desvinculación firmada por la persona a incorporar, por la jefatura de hogar y la persona solicitante (si es distinto a la jefatura de hogar).
+Copia de la cédula de identidad de la persona a incorporar, de la jefatura de hogar y persona solicitante (si es distinto a la jefatura de hogar).
+Certificado de Reclusión para los casos en que la persona se encuentre recluida y no sea posible contar con su cédula de identidad. La emisión del documento no debe ser superior a 3 meses a contar de la fecha de la solicitud.
+2. Solicitud de desvinculación
+Desvinculación de la jefatura de hogar: es el o la jefe o jefa de hogar quien requiere su desvinculación
+
+Formulario solicitud de incorporación/desvinculación firmada por el jefe o jefa de hogar.
+Copia de la cédula de identidad del jefe o jefa de hogar.
+Desvinculación del jefe o jefa de hogar cuando otro integrante del hogar realiza la solicitud
+
+Formulario solicitud de desvinculación de la jefatura de hogar firmado por la persona solicitante y por todas las personas adultas que componen el hogar.
+Copia de la cédula de identidad de la persona solicitante y de todas las personas adultas del hogar.
+Desvinculación por fallecimiento del jefe o jefa de hogar
+
+No requiere realizar el trámite, ya que es automático.
+
+Desvinculación de otro integrante  
+
+Si la solicitud es realizada por el jefe o jefa de hogar o el o la solicitante:
+
+Formulario solicitud de desvinculación firmada por el jefe o jefa de hogar y copia de la cédula nacional de identidad del jefe o jefa de hogar.
+Copia de la cédula de identidad del el jefe o jefa de hogar y el o la solicitante.
+Si la solicitud es realizada por la propia persona, no requiere la firma del jefe o jefa de hogar:
+
+Formulario solicitud de desvinculación firmado por quien realiza la solicitud.
+Copia de su cédula de identidad de quien realiza la solicitud.
+3. Solicitud de cambio de domicilio y vivienda (en la misma comuna/en otra comuna)
+Formulario de solicitud de actualización por cambio de domicilio y vivienda, firmada por la jefatura de hogar y la persona solicitante (si es distinto a la jefatura de hogar).
+Copia de la cédula de identidad de quienes firman.
+Además, debes presentar uno de los siguientes documentos y deberá contener el nombre de alguna de las personas integrantes del hogar. La dirección estipulada en este documento deberá ser igual a la declarada en el Módulo de Localización del Registro:
+
+Escritura o certificado de dominio vigente de la propiedad.
+Certificado de avalúo fiscal.
+Boleta de servicios básicos (luz, agua, gas, teléfono), con una antigüedad máxima de tres meses.
+Contrato de arriendo.
+Certificado de residencia emitido por la junta de vecinos.
+Declaración emitida por la directiva de una comunidad indígena acreditada por la Corporación Nacional de Desarrollo Indígena (CONADI).
+Estado de cuenta emitido por casas comerciales, instituciones bancarias, institución de salud, instituciones de administración de pensión, Administradoras de Fondos de Cesantía.
+Estado de cuenta emitido por la empresa proveedora de servicios de telefonía (fija o móvil) o de televisión
+Cartola emitida por la Administradora de Fondos de Pensiones (AFP).
+Nota: este trámite requiere visita domiciliaria por parte de la municipalidad, quienes tomarán contacto para agendar. En caso de no disponer de documentación de respaldo para acreditar residencia, el municipio realizará una visita domiciliaria, sin previo aviso, para certificar la información proporcionada por el solicitante, debiendo completar el formulario en esta visita.
+
+4. Solicitud de actualización módulo de vivienda
+Formulario solicitud de actualización módulo vivienda firmado por la jefatura de hogar y la persona solicitante (si es distinto a la jefatura de hogar).
+Copia de la cédula de identidad de la jefatura de hogar y de la persona solicitante (si es distinto a la jefatura de hogar).
+5. Solicitud de actualización módulo educación
+Formulario solicitud de actualización módulo educación firmada por la persona titular del dato y la persona solicitante (si es distinto al titular del dato).
+Copia de la cédula de identidad de éstas.
+6. Solicitud de actualización módulo de salud
+Formulario solicitud de actualización módulo salud firmada por la persona titular del dato y la persona solicitante (si es distinto al titular del dato).
+Copia de la cédula de identidad de éstas.
+7. Solicitud de actualización módulo ocupación e ingresos
+Los antecedentes a actualizar en este módulo corresponden a los ingresos monetarios autorreportados informados por los hogares, ya sean ingresos de tipo labora (trabajador o trabajadora dependiente y/o independiente) ingresos de pensiones o de otro tipo. La información a actualizar corresponden a todos los ingresos autorreportados por las personas integrantes del hogar, es decir, los datos declarados por la persona informante en el formulario de ingreso al RSH.
+
+Para tramitar la solicitud debe adjuntar o presentar los siguientes documentos:
+
+Formulario solicitud de actualización ocupación e ingresos firmada por la persona titular del dato y  la persona solicitante (si es distinto al titular del dato).
+Copia de la cédula de identidad de éstas.
+¿Cómo y dónde hago el trámite?
+1. En línea
+Reúne los documentos requeridos.
+Hace clic en “ir al trámite en línea” en el sitio web del Registro Social de Hogares.
+Una vez en el sitio web, hace clic en “acceder”.
+Escribe tu Run y ClaveÚnica, y hace clic en “autenticar”. Si no tienes ClaveÚnica, solicítala.
+Hace clic en “mis solicitudes” y posteriormente en “actualización del formulario”. Elige el tipo de solicitud que deseas realizar, y pulsa “continuar”.
+Ingresa los datos requeridos, y hace clic en “continuar”. Aparecerá en pantalla el mensaje solicitud ingresada y se te entregará un número de solicitud (con éste podrás hacer seguimiento al trámite).
+Descarga el formulario, imprímelo, complétalo y fírmalo. Debes digitalizar el documento para subirlo a la plataforma junto con los demás antecedentes que correspondan. Hace clic en “continuar con la gestión”.
+Adjunta los documentos, y hace clic en “continuar”. Si no adjuntas los antecedentes a través del sitio web, deberás dirigirte a tu municipalidad, y presentar la documentación requerida antes de 30 días después de realizada la solicitud, de no hacerlo su requerimiento no será tramitado.
+Como resultado del trámite, habrás solicitado la actualización de información del formulario del Registro Social de Hogares (RSH).
+IMPORTANTE:
+
+Recuerda que si no adjuntas la documentación requerida, deberás acudir a tu municipio a presentarla antes de 30 días corridos desde generada la solicitud, de lo contrario, su solicitud se entenderá por desistida.
+Si necesitas orientación, puedes llamar gratis al número 800 104 777. Horario de atención: lunes a viernes, de 9:00 a 19:00 horas.
+También puedes realizar este trámite en el sitio web de Clase Media Protegida con su ClaveÚnica.
+
+2. En oficina
+Reúne los documentos requeridos.
+Concurre a la municipalidad correspondiente a tu comuna de residencia.
+Explica el motivo de tu visita: solicitar la actualización de información del formulario del Registro Social de Hogares.
+Entrega los antecedentes requeridos.
+Como resultado del trámite, habrás solicitado la actualización de información del formulario del Registro Social de Hogares.
+3. Orientación telefónica
+Si necesitas orientación, puedes llamar gratis al número 800 104 777. Horario de atención: lunes a viernes, de 9:00 a 19:00 horas.
+
+-- http://www.registrosocial.gob.cl/complemento-de-informacion-rsh#top
+Complemento de información RSH
+Descripción del trámite
+Permite agregar información que incide en la calificación socioeconómica del hogar.
+
+El trámite está disponible durante todo el año en el sitio web del Registro Social de Hogares y en el departamento de estratificación social o RSH de tu municipalidad.
+
+Información complementaria
+La información posible de complementar es referida a:
+
+Pago o recepción de pensión de alimentos, cese o variación de pensión de alimentos.
+Pago o recepción de compensación económica de acuerdo a sentencia judicial de Tribunales de Familia.
+Cotización de salud de alto valor por preexistencia y/o tratamiento de alto costo y por aporte monetario efectivo del cotizante, a la(s) persona(s) carga(s) que son integrantes del hogar que forma parte del Registro Social de Hogares.
+Educación: beca, arancel diferenciado y/o pago arancel educacional por parte de una tercera persona.
+Propiedad compartida de bien raíz.
+¿A quién está dirigido?
+Personas mayores de edad integrantes del hogar del que se quiere solicitar el complemento de información en el Registro Social de Hogares (RSH).
+
+¿Qué necesito para hacer el trámite?
+Para tramitar cualquier tipo de solicitud, debes presentar los siguientes documentos:
+
+Formulario de solicitud (firmado por la persona solicitante y por la persona titular del dato en caso de ser distinto al solicitante). Si realiza el trámite en línea, este formulario se despliega en el mismo sistema. Debes descargarlo, imprimirlo, completarlo y adjuntarlo en el mismo sitio web.
+Copia de la cédula de identidad de quienes firman el formulario.
+Junto con lo anterior, debes presentar UNO de los antecedentes de acuerdo al tipo de solicitud que realizarás.
+1. Solicitud de complemento por pago o recepción de pensión de alimentos:
+Pago de pensión de alimentos:
+
+Sentencia judicial, en proceso ordinario o especial, que decreta el pago de una pensión alimenticia, que señale el monto y periodicidad del pago, junto a un documento que lo acredite.
+Acuerdo entre las partes, protocolizado ante notario y ratificado con carácter oficial por un tribunal competente, en que se establezca el monto y periodicidad del pago, junto a un documento que acredite el pago de dicha pensión.
+Acta ejecutiva con firma y timbre emitido por la oficina de mediación, junto a un documento que acredite el pago de dicha pensión.
+Resolución que provee demanda judicial por pensión de alimentos presentada ante tribunal respectivo y que fija alimentos provisorios.
+Resolución que fija alimentos provisorios en ejercicio de la potestad cautelar del Tribunal, en el marco de una demanda o denuncia por violencia intrafamiliar.
+Recepción de pensión de alimentos:
+
+Sentencia judicial, en proceso ordinario o especial, que decreta el pago de una pensión alimenticia, que señale el monto y periodicidad del pago, junto a un documento lo acredite.
+Acuerdo entre las partes, protocolizado ante notario y ratificado con carácter oficial por un tribunal competente, en que se establezca el monto y periodicidad del pago, junto a un documento que lo acredite.
+Acta ejecutiva con firma y timbre emitido por la oficina de mediación, junto a un documento que acredite el pago de dicha pensión.
+Liquidación de deuda emitido por el tribunal de familia.
+Resolución que provee demanda judicial por pensión de alimentos presentada ante tribunal respectivo y que fija alimentos provisorios.
+Resolución que fija alimentos provisorios en ejercicio de la potestad cautelar del Tribunal, en el marco de una demanda o denuncia por violencia intrafamiliar.
+Para ambos tipos de trámite (pago y recepción de pensión de alimentos), el documento a presentar, debe contener la siguiente información:
+
+Nombre y RUN del alimentante (quien entrega la pensión).
+Nombre y RUN del alimentario y de su representante legal en los casos que corresponda.
+Monto y periodicidad del pago de pensión.
+Fecha desde la que se paga la pensión de alimentos.
+IMPORTANTE: Si el documento a presentar es una “Resolución que provee la demanda judicial por pensión de alimentos”, el efecto en la calificación socioeconómica será de 6 meses. Si el documento a presentar es una “Resolución que fija alimentos provisorios en el marco de una demanda o denuncia por violencia intrafamiliar”, el efecto en la calificación socioeconómica será de 12 meses. Pasado dichos plazos, deberá ser ingresado un nuevo requerimiento adjuntando el documento de la “sentencia judicial” que decreta el pago de una pensión alimenticia, que señale el monto y periodicidad del pago, junto a un documento que lo acredite.
+
+La emisión del documento que acredita el cumplimiento de la obligación de pago de la pensión de alimentos no debe superar los dos meses, a contar de la fecha de la solicitud.
+
+2. Solicitud de complemento por pago o recepción de compensación económica:
+Pago de compensación económica, debes presentar o adjuntar UNO de los siguientes documentos:
+
+Sentencia judicial que decreta el divorcio o la nulidad de matrimonio, que señale el monto y periodicidad de pago, cuyo monto debe ser igual o superior a 12 cuotas mensuales y sucesivas, junto a un documento que acredite el cumplimiento de la obligación de pago.
+Documento en que conste apertura de libreta de ahorro para Compensación económica.
+Recepción de compensación económica, debes presentar los siguientes documentos:
+
+Sentencia judicial que decreta el divorcio o la nulidad de matrimonio, que señale el monto y periodicidad de pago, cuyo monto debe ser igual o superior a 12 cuotas mensuales y sucesivas, junto a un documento que acredite el cumplimiento de la obligación de pago.
+Documento en que conste apertura de libreta de ahorro para Compensación económica.
+Para ambos tipos de trámite (pago y recepción de compensación económica), el documento a presentar, debe contener la siguiente información:
+
+Nombre y RUN del alimentante (quien entrega la pensión).
+Nombre y RUN del alimentario y de su representante legal en los casos que corresponda.
+Monto y periodicidad del pago de pensión.
+Fecha desde la que se paga la compensación económica.
+3. Solicitud de complemento por cese o variación de pensión de alimentos (esta solicitud podrá realizarla solo quien haya realizado anteriormente un complemento por pago o recepción de alimentos):
+Resolución judicial, que decreta provisoriamente, el aumento, rebaja o cese de la pensión de alimentos.
+Sentencia judicial que decreta el cese, variación sea por aumento o rebaja de la pensión alimenticia.
+Acuerdo entre las partes, protocolizado ante notario y ratificado con carácter oficial por un tribunal competente, junto a un documento que acredite el pago de dicha pensión.
+Resolución del tribunal competente que aprueba el acta ejecutiva de mediación con firma y timbre.
+Liquidación de deuda emitido por el tribunal de familia.
+El documento a presentar debe contener la siguiente información:
+
+Nombre y RUN del alimentante (quien entrega la pensión).
+Nombre y RUN del alimentario y de su representante legal en los casos que corresponda.
+Monto y periodicidad del pago de pensión.
+Fecha desde la que se verifica el cese, rebaja o incumplimiento de la pensión de alimentos.
+La emisión del documento que acredita el cumplimiento de la obligación de pago de la compensación económica no debe superar los dos meses, a contar de la fecha de solicitud.
+4. Solicitud de complemento de cotización de salud:
+Cotización de salud de alto valor por preexistencia y/o tratamiento de alto costo:
+
+Declaración jurada simple N° 3, que indique la preexistencia y/o enfermedad que implica alto costo, y certificado médico que acredite la condición anterior (ambos). Si la carga de la cotización de salud que tiene la preexistencia o tratamiento de alto costo no es parte del hogar que realiza la solicitud, se deberá presentar adicionalmente un documento que acredite que dicha persona también es carga del cotizante.
+Aporte monetario efectivo del cotizante al hogar de la(s) carga(s) de cotización de salud:
+
+Debe presentar uno de los siguientes documentos:
+
+Sentencia judicial, en proceso ordinario o especial, que decreta el pago de una pensión de alimenticia, que señale el monto y periodicidad del pago, junto a un documento que acredite el cumplimiento de la obligación de pago presentada ante tribunal respectivo, junto a un documento que acredite el cumplimiento de la obligación de pago de dicha pensión.
+Acuerdo entre las partes, protocolizado ante notario y ratificado con carácter oficial por un tribunal competente, en que se establezca el monto y periodicidad del pago, junto a documento que acredite el cumplimiento de la obligación de pago de dicha pensión.
+Acta ejecutiva con firma y timbre emitida por la oficina de mediación junto a un documento que acredite el pago de dicha pensión.
+Liquidación de deuda emitido por el Tribunal de Familia.
+Resolución que provee demanda judicial por pensión de alimentos presentada ante tribunal respectivo y que fija alimentos provisorios.
+Resolución que fija alimentos provisorios en ejercicio de la potestad cautelar del Tribunal, en el marco de una demanda o denuncia por violencia intrafamiliar.
+IMPORTANTE: si el documento corresponde a una “Resolución que provee Demanda Judicial por pensión de alimentos”, el efecto en la calificación socioeconómica de esta solicitud tendrá una vigencia máxima de 6 meses, si el documento es una “Resolución que fija alimentos provisorios en el marco de una demanda o denuncia por violencia intrafamiliar”, el efecto en la calificación socioeconómica de esta solicitud tendrá una vigencia máxima de 12 meses.
+
+Pasado dichos plazos, deberás ingresar una nueva solicitud, adjuntando el documento de la “sentencia judicial” que decreta el pago de una pensión alimenticia, que señale el monto y periodicidad del pago, junto a un documento que lo acredite. La emisión del documento que acredita el cumplimiento de la obligación de pago de la pensión de alimentos no debe superar los dos meses, a contar de la fecha de solicitud.
+
+5. Solicitud de complemento por pago de arancel de establecimiento educacional:
+Beca total o parcial, ya sea del establecimiento educacional o por parte de otra institución.
+
+Carta del establecimiento señalando que el alumno está becado y/o tiene arancel diferenciado, con una antigüedad máxima de 30 días. La carta debe identificar el monto que efectivamente paga el hogar (después de los descuentos).
+Pago de la mensualidad del establecimiento por una tercera persona no integrante del hogar y que no corresponde a la madre o al padre y/o tutor legal.
+
+Declaración jurada simple N° 4 de quien paga el arancel, indicando el monto que efectivamente paga el declarante y el monto pagado por el hogar, descontando el aporte del declarante.
+Beca total o parcial y/o arancel diferenciado, ya sea del establecimiento educacional o por parte de otra institución, junto a pago de la mensualidad del establecimiento por un tercero o tercera no integrante del hogar y que no corresponde a la madre o al padre y/o tutor legal.
+
+Carta del establecimiento señalando que el alumno está becado y/o tiene arancel diferenciado, con una antigüedad máxima de 30 días. La carta debe identificar el monto mensual que efectivamente paga el hogar (después de los descuentos).
+Declaración jurada simple N° 4 de quien paga el arancel, indicando el monto que efectivamente paga la persona declarante y el monto pagado por el hogar, descontando el aporte del declarante.
+IMPORTANTE: la emisión del documento no debe ser superior a 30 días corridos a contar de la fecha de la solicitud. Una vez aprobada la solicitud, se mantendrá vigente hasta el inicio de un nuevo año académico. Si la situación del o la estudiante se mantiene, deberá actualizar o revalidar la información. En caso contrario, la inconsistencia detectada de “establecimiento educacional de alto valor” se volverá a reflejar en su cartola.
+
+6. Solicitud de complemento por propiedad compartida de bien raíz.
+Certificado de dominio vigente emitido por Conservador de Bienes Raíces (CBR) y escritura pública de compraventa del bien raíz (ambos) y/o copia de inscripción de propiedad con dominio vigente.
+Sólo para el caso de comunidades indígenas: los documentos descritos, además del Certificado de Goce emitido por la Corporación Nacional de Desarrollo Indígena (CONADI).
+
+IMPORTANTE: la fecha de emisión del documento de respaldo deberá tener una antigüedad máxima de 12 meses. El documento debe señalar el porcentaje de la propiedad que tiene el o los integrantes del hogar.
+
+¿Cómo y dónde hago el trámite?
+1. En línea
+Reúne los documentos requeridos.
+Hace clic en “ir al trámite en línea” en el sitio web del Registro Social de Hogares.
+Una vez en el sitio web de la institución, hace clic en “acceder”.
+Escribe tu Run y ClaveÚnica, y hcea clic en “autenticar”. Si no tienes ClaveÚnica, solícitela.
+Hace clic en “mis solicitudes” y posteriormente en “ingresar solicitudes”.
+Selecciona “complemento de información al registro”, y hace clic en “continuar”.
+Selecciona el o la integrante titular del dato, y haga clic en “continuar”.
+Elige el tipo de complemento, ingresa los datos requeridos, adjunta los documentos, y hace clic en “continuar”. Si no adjuntas los antecedentes a través del sitio web, deberás dirigirte a tu municipalidad y presentar la documentación requerida antes de 30 días después de realizada la solicitud, de no hacerlo, tu requerimiento no será tramitado.
+Como resultado del trámite, habrás solicitado el complemento de información al Registro Social de Hogares. El sistema te entregará un número de solicitud con el que podrás hacer seguimiento al trámite.
+IMPORTANTE:
+
+Recuerda que si no adjuntas la documentación requerida deberás acudir a tu municipio a presentarla antes de 30 días corridos desde que generas la solicitud, de lo contrario, tu solicitud se entenderá por desistida.
+Si necesitas orientación, puede llamar gratis al número 800 104 777. Horario de atención: lunes a viernes, de 9:00 a 19:00 horas.
+2. En oficina
+Reúne los documentos requeridos.
+Concurre al departamento social de tu municipalidad.
+Explica el motivo de tu visita: solicitar el complemento de información al Registro Social de Hogares.
+Entrega los antecedentes requeridos.
+Como resultado del trámite, habrás solicitado el complemento de información al Registro Social de Hogares.
+3. Orientación telefónica
+Si necesitas orientación, puedes llamar gratis al número 800 104 777. Horario de atención: de lunes a viernes, de 9:00 a 19:00 horas.
+
+http://www.registrosocial.gob.cl/actualizacion-de-datos-administrativos-rsh#top
+Descripción del trámite
+Permite incorporar información que aún no se ve reflejada en las bases de datos administrativas que utiliza el Registro Social de Hogares (RSH). Es posible realizar el trámite de actualización de esta información cuando corresponden a cambios ocurridos en el período de desfase de la misma base.
+
+La información de bases administrativas que puede actualizar son:
+
+Ingresos como trabajador o trabajadora dependiente.
+Ingresos como trabajador o trabajadora independiente.
+Ingresos como trabajador o trabajadora dependiente e independiente.
+Ingresos de pensión y/o jubilación.
+Ingresos del capital.
+Cotizaciones de salud.
+Dominio de bien raíz.
+Matrícula en establecimiento educacional.
+Matrícula en educación superior.
+Propiedad de vehículos.
+El trámite está disponible durante todo el año en el sitio web del Registro Social de Hogares y en el departamento de estratificación social o RSH de tu municipalidad.
+
+¿A quién está dirigido?
+Puede realizarlo cualquier integrante del hogar, mayor de 18 años, inscrito en el Registro Social de Hogares.
+
+¿Qué necesito para hacer el trámite?
+Para tramitar cualquier tipo de solicitud, debes presentar los siguientes documentos:
+
+Formulario de solicitud (firmado por la persona solicitante, y por la persona titular del dato en caso de ser distinto al solicitante). Si realiza el trámite en línea, este formulario se despliega en el mismo sistema. Debes descargarlo, imprimirlo, completarlo y adjuntarlo en el mismo sitio web.
+Copia de la cédula de identidad (vigente al momento de iniciar la solicitud) de quienes firman el formulario.
+Junto con lo anterior, deberá adjuntar UNO de los siguientes documentos, dependiendo del tipo de solicitud que realizará.En caso de solicitar actualizar tanto ingresos del trabajo como dependiente e independiente, deberá presentar obligatoriamente la documentación para actualizar ambos tipos de ingresos laborales
+
+1. Ingresos como trabajador o trabajadora dependiente:
+Variación de ingresos(aumento o disminución) de los meses que desea actualizar. Debes presentar uno de los siguientes documentos:
+Liquidaciones de sueldo.
+Certificado de remuneraciones imponibles (certificado de cotizaciones con detalle de sueldo imponible).
+Declaración jurada simple N° 1 (fuente de dato Servicio de Impuestos Internos, SII).
+Si la fuente de ingresos corresponde al Servicio de Impuestos Internos, la información a completar sea de tipo dependiente o independiente será de 12 meses. En caso que la fuente de ingresos corresponda a Superintendencia de Pensiones, Superintendencia de Salud o Administradora de Fondos de Pensiones, podrá actualizar información de los últimos 4 meses.
+
+Situación de cesantía (ausencia de ingresos laborales) de los meses que desea actualizar. Debes presentar uno de los siguientes documentos:
+Finiquito o carta de término de relación laboral emitida por el empleador.
+Carta de renuncia firmada ante ministro de fe y recepcionada por el empleador.
+Documento que muestre que se acogió a trámite de pago del subsidio de cesantía.
+Documento que acredite se acogió a retiro en el caso de pertenecer a FFAA y de Orden.
+Certificado de remuneraciones imponibles (certificado de cotizaciones con detalle de sueldo imponible).
+Informar nuevos ingresos como trabajador o trabajadora independiente, emitido por el Servicio de Impuestos Internos:
+Resumen de Boletas de honorarios (emitidas y recibidas, generados por el SII).
+Carpeta tributaria para acreditar rentas o créditos
+2. Ingresos como trabajador o trabajadora independiente:
+Actualización de ingresos monetarios como trabajador o trabajadora independiente. Variación de ingresos (aumento o disminución) de los meses que desea actualizar. Debes presentar uno de los siguientes documentos:
+Resumen de boletas de honorarios emitidas y recibidas: cuando la fuente de dato corresponda al Servicio de Impuestos Internos (SII), o
+Carpeta tributaria para acreditar rentas o para acreditar créditos (cuando la fuente de datos corresponda al Servicio de Impuestos Internos).
+Certificado de remuneraciones imponibles (certificado de cotizaciones con detalle de sueldo imponible): cuando la fuente de dato corresponda a la Superintendencia de Salud (SS) o Superintendencia de Pensiones (SP).
+Actualización de ingresos monetarios como trabajador o trabajadora dependiente: reportar nuevos ingresos como trabajador o trabajadora dependiente. Debes presentar uno de los siguientes documentos:
+Certificado de remuneraciones imponibles (certificado de cotizaciones con detalle de sueldo imponible).
+Liquidaciones de sueldo.
+Declaración jurada simple N° 1 (fuente de dato Servicio de Impuestos Internos, SII), en la que el titular del dato reporta información respecto a la variación de ingresos experimentada.
+IMPORTANTE:
+
+La emisión de los documentos no debe ser superior a 4 meses, a contar de la fecha de la solicitud. Adicionalmente, la información contenida en el respectivo documento debe ser correspondiente al periodo que requiere actualizar. En caso contrario, la solicitud no deberá ser efectuada.
+
+3. Ingresos como trabajador o trabajadora dependiente e independiente:
+En caso de solicitar actualizar los ingresos monetarios del trabajador o trabajadora tanto dependiente como independiente, deberás presentar obligatoriamente la documentación para actualizar ambos tipos de ingresos laborales según lo señalado en los puntos anteriores.
+
+En caso de actualizar ingresos como trabajador(a) dependiente y además desea actualizar ingresos como trabajador(a) independiente con boletas de honorarios puede hacerlo adjuntando la documentación Declaración jurada simple N° 1 (fuente de dato Servicio de Impuestos Internos, SII), en la que el titular del dato reporta información respecto a la variación de ingresos experimentada.
+
+IMPORTANTE:
+
+La emisión de los documentos no debe ser superior a 4 meses, a contar de la fecha de la solicitud. Adicionalmente, la información contenida en el respectivo documento debe ser correspondiente al periodo que requiere actualizar. En caso contrario, la solicitud no deberá ser efectuada.
+
+4. Ingresos de pensión y/o jubilación:
+Deberás presentar uno de los siguientes documentos:
+
+Carta de notificación firmada por la institución pagadora en la que se especifique el nuevo monto de la pensión y/o jubilación.
+Liquidaciones de pensiones emitidas por la institución pagadora.
+Certificado de pensiones y jubilaciones emitida por la institución pagadora (Capredena, Dipreca, IPS, etc.).
+Certificado de saldo cero del Fondo de Previsión (solo para el caso de cese de pensión)
+IMPORTANTE:
+
+La emisión de los documentos no debe ser superior a 4 meses, a contar de la fecha de la solicitud. Adicionalmente, la información contenida en el respectivo documento debe ser correspondiente al periodo que requiere actualizar. En caso contrario, la solicitud no deberá ser efectuada
+
+5. Ingresos del capital:
+Declaración jurada simple N° 2 (Fuente de dato SII), en la que la persona titular del dato reporta información respecto a la variación de ingresos experimentada.
+IMPORTANTE:
+
+La emisión del documento no debe ser superior a 4 meses, a contar de la fecha de la solicitud. Adicionalmente, la información contenida en el respectivo documento debe ser correspondiente al periodo que requiere actualizar. En caso contrario, la solicitud no deberá ser efectuada.
+
+6. Cotizaciones de salud:
+Variación en el valor de la cotización de salud (aumento o disminución). Se debe presentar uno de los siguientes documentos en el que se señale el monto del plan y la fecha de cambio y/o inicio del nuevo plan:
+Contrato de salud previsional vigente que establezca el valor de la cotización.
+Certificado de afiliación al sistema de salud (ISAPRE) explicitando el valor del plan o cotización.
+Certificado de cotizaciones de salud.
+Desafiliación del sistema de salud o de institución de salud. Se debe presentar uno de los siguientes documentos en el que se señale la fecha de desafiliación o afiliación según corresponda:
+Certificado de desafiliación de la ISAPRE.
+Certificado de afiliación a la nueva ISAPRE explicitando el valor del plan o cotización.
+Certificado de afiliación a FONASA.
+IMPORTANTE:
+
+La emisión del documento no debe ser superior a tres meses, a contar de la fecha de la solicitud. Adicionalmente, la información contenida en el respectivo documento debe ser correspondiente al periodo que requiere actualizar. En caso contrario, la solicitud no deberá ser efectuada.
+
+7. Dominio de bien raíz:
+Deberás presentar uno de los documentos del siguiente listado:
+
+Certificado de dominio vigente emitido por Conservador de Bienes Raíces (CBR), escritura pública de compraventa del bien raíz (ambos) y/o copia de inscripción de propiedad con dominio vigente.
+Certificado de un tribunal en que conste que se ha ordenado la entrega material del bien expropiado por resolución firme y ejecutoriada.
+Acta de remate que da cuenta de la adjudicación, con certificación de que se encuentra firme y ejecutoriada
+IMPORTANTE:
+
+La fecha emisión del documento no debe ser superior a 12 meses, a contar de la fecha de la solicitud. Adicionalmente, la información contenida en el respectivo documento debe ser correspondiente al periodo que requiere actualizar. En caso contrario, la solicitud no deberá ser efectuada.
+
+8. Matrícula en establecimiento educacional:
+Deberás presentar uno de los documentos del siguiente listado, según el tipo de solicitud:
+
+Cambio de establecimiento educacional
+Certificado de alumno o alumna regular del año escolar en curso emitido por el establecimiento educacional al que asiste
+Retiro formal del establecimiento educacional
+Documento del establecimiento educacional en el que estaba matriculado el alumno o la alumna, indicando que fue retirado formalmente, por lo que no es alumno o alumna del establecimiento.
+IMPORTANTE:
+
+La emisión de los documentos no debe ser superior a 30 días corridos, a contar de la fecha de la solicitud.
+
+9. Matrícula de educación superior:
+Se podrá realizar este trámite cuando las personas entre 18 y 24 años ingresen a la educación superior, o bien, para aquellas que egresaron o se retiraron de ésta.
+
+Para realizar este trámite, deberás presentar los siguientes documentos:
+
+Copia de cédula de identidad (vigente al momento de iniciar la solicitud) de quienes firman el formulario.
+Formulario solicitud, firmado por la persona solicitante y por el/la titular del dato en caso de ser distinto al solicitante.
+Al menos UNO de los siguientes documentos, dependiendo del tipo de solicitud:
+Ingreso a una institución de educación superior:
+
+Certificado de alumno o alumna regular, emitido por la institución de educación superior.
+Egreso o retiro de una institución de educación superior:
+
+Certificado de egreso o retiro emitido por la institución de educación superior.
+IMPORTANTE:
+
+La emisión del documento no debe ser superior a 12 meses, a contar de la fecha de la solicitud. Adicionalmente, la información contenida en el mismo documento debe contener a la persona integrante cuya información requiere actualizar.
+
+10. Propiedad de vehículos:
+Se podrá realizar este trámite para dar cuenta que sus vehículos fueron vendidos o traspasados, sus patentes han sido canceladas o cuando se realiza una resciliación del contrato de compra y venta y/o traspaso (ya no son propietarios de éstos).
+
+Para realizar este trámite, deberás presentar los siguientes documentos:
+
+Formulario de solicitud (firmado por el solicitante y por el titular del dato en caso de ser distinto al solicitante).
+Copia de cédula de identidad (vigente al momento de iniciar la solicitud) de quienes firman el formulario.
+Al menos UNO de los siguientes documentos, dependiendo del tipo de solicitud:
+Venta o traspaso:
+
+Certificado de inscripción (Padrón).
+Certificado de anotaciones vigentes.
+Declaración consensual de transferencia de vehículos.
+Cancelación o rescilación de la inscripción:
+
+Certificado de cancelación de inscripción emitido por el Registro Civil e Identificación.
+Certificado de resciliación de inscripción emitido por el Registro Civil e Identificación.
+IMPORTANTE:
+
+La emisión del documento no debe ser superior a 12 meses, a contar de la fecha de la solicitud. Adicionalmente, la información contenida en el mismo documento debe contener la patente del vehículo que requiere actualizar.
+
+¿Cómo y dónde hago el trámite?
+1. En línea
+Reúne los antecedentes requeridos.
+Hace clic en “ir al trámite en línea” en el sitio web del Registro Social de Hogares.
+Una vez en el sitio web, selecciona la opción para acceder a su Registro Social de Hogares: a través de ClaveÚnica .
+Escribe los datos solicitados para ingresar, y hace clic en “autenticar” o “acceder”, según corresponda.
+Hace clic en “mis solicitudes” y posteriormente en “ingresar solicitudes”.
+Selecciona “actualización de información de registros administrativos”, y hace clic en “continuar”.
+Selecciona el o la integrante titular del dato, y haga clic en “continuar”.
+Elija el tipo de solicitud, ingresa los datos requeridos, adjunta los documentos, y hace clic en “continuar”. Si no adjuntas los antecedentes a través del sitio web, deberás dirigirte a tu municipalidad y presentar la documentación requerida antes de 30 días después de realizada la solicitud, de no hacerlo tu requerimiento no será tramitado.
+Como resultado del trámite, habrás solicitado la actualización de datos administrativos del Registro Social de Hogares (RSH). El sistema te entregará un número de solicitud con el que podrás hacer seguimiento al trámite.
+IMPORTANTE:
+
+Recuerde que si no adjuntas la documentación requerida deberás concurrir a tu municipio a presentarla antes de 30 días corridos desde generada la solicitud, de lo contrario, tu solicitud se entenderá por desistida.
+Si necesita orientación, puedes llamar gratis al número 800 104 777. Horario de atención: de lunes a viernes, de 9:00 a 19:00 horas.
+2. En oficina
+Reúne los antecedentes requeridos.
+Concurre al departamento de estratificación social o RSH de tu municipalidad.
+Explica el motivo de tu visita: solicitar la actualización de datos administrativos del Registro Social de Hogares (RSH).
+Entrega los antecedentes requeridos.
+Como resultado del trámite, habrás solicitado la actualización de datos administrativos del Registro Social de Hogares (RSH).
+3. Orientación telefónica
+Si necesitas orientación, puedes llamar gratis al número 800 104 777. Horario de atención: de lunes a viernes, de 9:00 a 19:00 horas.
+
+-- http://www.registrosocial.gob.cl/beneficios-sociales#top
+Beneficio
+¿Cuál es el tramo requerido?
+Bono COVID-19 ↗
+Hasta el 60%
+
+Ingreso Mínimo Garantizado ↗	
+Hasta el 90%
+
+Continuidad de los servicios de agua y energía eléctrica ↗	
+Se encuentren dentro de los segmentos más vulnerables según el Registro Social de Hogares ↗ .
+
+Plan Solidario de Conectividad ↗
+Hasta el 40%
+
+Aporte Previsional Solidario vejez ↗	
+Hasta el 60% más pobre de la población según el Puntaje de Focalización Previsional, determinado con información del Registro Social de Hogares y de otros datos que dispone el Estado.
+
+Aporte Previsional Solidario de invalidez ↗	
+Hasta el 60% más pobre de la población según el Puntaje de Focalización Previsional, determinado con información del Registro Social de Hogares y de otros datos que dispone el Estado.
+
+Rebaja en la cotización de los pensionados ↗
+Hasta el 90%
+
+Bodas de oro ↗
+Hasta el 80%
+
+Bono Trabajo Mujer ↗
+Hasta el 40%
+
+Subsidio al empleo joven ↗	
+Hasta el 40%
+
+Yo emprendo semilla ↗
+Se encuentren dentro de los segmentos más vulnerables según el Registro Social de Hogares ↗ .
+
+Yo trabajo Jóvenes ↗
+Hasta el 40%
+
+Yo trabajo ↗	
+Hasta el 40%
+
+Ayudas técnicas Senadis ↗
+Hasta el 70%
+
+Subsidio de arriendo de vivienda ↗
+Hasta el 70%
+
+Subsidio de construcción o adquisición de vivienda nueva o usada para sectores medios ↗
+Hasta el 90%
+
+Centros Diurnos del Adulto Mayor ↗	
+Hasta el 60%
+
+Establecimiento de larga estadía ↗
+Hasta el 60%
+
+Programa Cuidados Domiciliarios ↗
+Hasta el 60%
+
+Red Local Apoyo y Cuidado ↗
+Hasta el 60%
+
+Reinvéntate ↗	
+Hasta el 80%
+
+Pensión Básica Solidaria de Vejez↗
+Hasta el 60% más pobre de la población según el Puntaje de Focalización Previsional, determinado con información del Registro Social de Hogares y de otros datos que dispone el Estado
+
+Pensión Básica Solidaria de invalidez ↗
+Hasta el 60% más pobre de la población según el Puntaje de Focalización Previsional, determinado con información del Registro Social de Hogares y de otros datos que dispone el Estado.
+
+-- http://www.registrosocial.gob.cl/charlas-informativas#top
+Charlas informativas
+El Ministerio de Desarrollo Social y Familia ofrece capacitaciones o charlas informativas a organizaciones sociales como juntas de vecinos, clubes de adulto mayor u otras, y a instituciones públicas y privadas, para informar del funcionamiento del Registro Social de Hogares y como los hogares pueden actualizar o modificar sus datos.
+Debido al covid-19, las capacitaciones o charlas se han realizado en forma virtual (por Zoom, Meet o Teams), formato que continuará vigente una vez que pase la emergencia sanitaria. También se han retomado las charlas presenciales respetando aforos y medidas sanitarias establecidas por la autoridad sanitaria.
+Solicite para su organización social o institución pública o privada una capacitación o charla, enviando un correo electrónico a: charlasinformativarsh@desarrollosocial.gob.cl
+En breve plazo se le enviará correo electrónico para definir lugar, fecha y hora de la actividad.
+Las charlas informativas requieren un mínimo de 15 personas participantes para su realización.
+
+-- http://www.registrosocial.gob.cl/tramites-obtener-cartola-rsh#top
+
+La Cartola Hogar
+Es el documento que resume la información con que cuenta el Registro Social de Hogares y que es utilizada para la construcción de la Calificación Socioeconómica de su hogar.
+
+En ella podrá encontrar:
+
+Información del domicilio del hogar
+Integrantes del hogar
+Ingreso mensual del hogar
+Tramo de Calificación Socioeconómica
+Datos complementarios que influyen en la calificación del hogar
+
+-- http://www.registrosocial.gob.cl/tramites-ingreso-rsh#top
+
+¿Cómo realizar el INGRESO al Registro Social de Hogares?
+
+La solicitud de ingreso al Registro Social de Hogares la puede realizar cualquier persona mayor de edad integrante de un hogar.
+
+Un Registro Social de Hogares debe incluir a todos los integrantes de un hogar. Se consideran miembros de un hogar a todas aquellas personas que, siendo residentes de una misma vivienda, pueden tener o no vínculos de parentesco entre sí y habitualmente hacen vida en común, es decir, alojan en la misma vivienda y tienen presupuesto de alimentación común.
+
+
+¿Qué pasa si mi grupo familiar ya tiene Registro Social de Hogares (RSH)?
+Debes pedirles que te incorporen, ingresando a la plataforma Registro Social de Hogares en la sección "Información de tu hogar" solicitando "Quiero modificar la composición de mi hogar".
+
+¿Qué pasa si pertenezco a otro hogar, pero quiero tener mi propio Registro Social de Hogares (RSH)?
+Puedes generar un nuevo hogar, aunque vivas ahí, para el caso de los allegados en sitio, por ejemplo. Debes realizar tu propia solicitud de ingreso al Registro Social de Hogares. La desvinculación del antiguo hogar se hará de forma automática, una vez que esté vigente tu propio hogar.
+
+¿Qué necesito para realizar el ingreso al Registro Social de Hogares (RSH)?
+Para comenzar tu registro deberás adjuntar sólo uno de los siguientes documentos:
+
+Boleta de servicios básicos (luz, agua, gas, teléfono) a tu nombre o de un adulto que inscribas en el hogar y con una antigüedad máxima de 3 meses.
+Certificado de avalúo fiscal a tu nombre o el nombre de alguno de los adultos del hogar.
+Escritura o certificado de dominio vigente de la propiedad que indique el nombre de alguno de los adultos del hogar.
+Contrato de arriendo a tu nombre o que indique el nombre de alguno de los adultos del hogar.
+Certificado de residencia emitido por la Junta de Vecinos.
+Estado de cuenta emitido por casas comerciales, Instituciones Bancarias, Instituciones de Salud, Administradora de Fondos de Pensiones o Administradoras de Fondos de Cesantía a tu nombre o que indique el nombre de alguno de los adultos del hogar.
+Estado de cuenta o cartola emitidos por la empresa proveedora de servicios de telefonía (fija o móvil) o de televisión a tu nombre o que indique el nombre de alguno de los adultos del hogar.
+Declaración emitida por la Directiva de una comunidad indígena acreditada por Conadi.
+Certificado de acreditación de residencia emitido por el encuestador municipal en caso de no contar con ninguno de los documentos anteriores.
+Declaración jurada para la acreditación de residencia, Anexo 1 (descargar documento) .
+Además, si tu hogar está conformado por más de una persona deberás adjuntar:
+
+1 Fotocopia o fotografía de cédula de identidad vigente por ambos lados de todos los mayores de 18 años que integran el grupo familiar. (En caso de que la cédula esté vencida debes cargar la fotografía de la cédula de identidad vencida por ambos lados + comprobante de solicitud definitiva en trámite o ampliación de solicitud definitiva en trámite).
+
+2 Certificado de nacimiento de los menores de 18 años (si los menores han nacido en el extranjero deben presentar fotocopia del carnet de identidad).
+
+3 Declaración jurada simple para la solicitud de ingreso al registro (sólo las firmas de los mayores de 18 años y con lápiz azul). Puede imprimir estas declaraciones y firmarlas, o escribir lo que dice el documento a mano en una hoja en blanco con lápiz azul y firmarla (descargar documento) .
+
+Estas solicitudes podrían implicar una visita domiciliaria por parte del ejecutor (municipio)
+
+
+-- http://www.registrosocial.gob.cl/tramites-actualizacion-complemento-rectificacion#top
+Solicitudes de Actualización, Complemento y Rectificación en RSH
+Si ya eres parte del RSH, ¿qué trámites debo realizar?
+Una vez que has ingresado al Registro Social de Hogares, y que ya eres parte del sistema, puedes realizar 3 tipos de solicitudes
+
+	
+Actualización
+Este tipo de trámite como dice su nombre te permite poner al día un dato que ya cambió. Las actualizaciones pueden ser del formulario que llenaste al ingresar (domicilio, datos de salud, educación, trabajo y/o ingreso monetario), o de la información que el Estado tiene a su disposición y que es utilizada para calcular tu calificación socioeconómica (tramo RSH).
+
+La información más recurrente que proviene de datos del Estado es la referida al trabajo e ingreso monetario de los integrantes del hogar, y requiere ser actualizada, por ejemplo, cuando algún integrante del hogar pierde su fuente de ingresos formales.
+
+	
+Complemento
+Este tipo de trámite permite incorporar nuevos antecedentes o información al Registro, que no estaban considerados ni en el formulario de ingreso al Registro, ni en los datos que el Estado posee, por ejemplo:
+
+a Pago, recepción, cese o variación de la pensión de alimentos.
+
+b Pago o recepción de compensación económica por una sentencia judicial de los Tribunales de Familia.
+
+c Cotización de salud de alto valor por preexistencia y/o tratamiento de alto costo y por aporte monetario efectivo del cotizante, a la(s) persona(s) carga(s) que son integrantes del hogar.
+
+d Educación: beca, arancel diferenciado y/o pago arancel educacional por parte de una tercera persona.
+
+e Propiedad compartida de bien raíz.
+
+	
+Rectificación
+Este tipo de trámite permite corregir un dato que posee el Estado, y que es incorrecto (dominio bien raíz, vehículo, cotizaciones de salud, ingreso), es decir nunca correspondió a tu hogar. Las rectificaciones son un tipo de solicitud muy poco común.
+
+-- 10_Actualizacion_domicilio_2.pdf
+Solicitud de actualización de domicilio
+Registro Social de Hogares 800 104 777 | WWW.REGISTROSOCIAL.GOB.CL
+Para mayor información, puedes llamar al siguiente teléfono o ingresar al sitio web.
+Este trámite permite informar al Registro Social de Hogares que todas las personas de tu hogar se cambiaron o
+cambiarán a un nuevo domicilio.
+Para realizar esta solicitud debes ingresar a la página web www.registrosocial.gob.cl en la sección “Mi Registro” y
+seleccionar e ingresar tu “Claveúnica”. Por el periodo de la emergencia también puedes ingresar con tu RUN, fecha de
+nacimiento y número de documento o número de serie. 
+
+Pasos para realizar
+tu solicitud de cambio de domicilio
+
+1. Selecciona “Quiero actualizar
+Una vez que hayas ingresado a tu Registro Social de
+Hogares, verás tus datos de contacto y la información
+de tu hogar. Selecciona el botón “Quiero actualizar
+los datos de mi Domicilio y/o Vivienda”.
+
+2. Selecciona “Mi hogar se cambió de domicilio”
+En la siguiente pantalla, selecciona la alternativa
+“Mi hogar cambio de domicilio” y luego, haz
+clic en el botón “Continuar”.
+
+3. Selecciona “todos” los integrantes
+Selecciona “Todos”, para señalar que todas las personas
+de tu hogar se cambiaron de domicilio contigo.
+En caso que no selecciones a todas las personas de tu
+hogar, se te indicará que realizarás un nuevo ingreso al
+Registro Social de Hogares (dado que estás formando un
+nuevo hogar) .
+Posteriormente selecciona botón “Continuar”.
+
+¿Puedo guardar el
+avance de mi solicitud
+y volver después a
+completarlo?
+Si necesitas suspender el ingreso de información puedes utilizar la opción
+“Guardar y continuar más tarde”. Si completaste correctamente los datos se
+desplegará un mensaje que dice “Su solicitud ha sido guardada correctamente”.
+Cuando vuelvas a ingresar a la plataforma para completar la solicitud, deberás
+ir a “Estado de las solicitudes”. Seleccionar en el botón “Editar” el borrador
+de la solicitud que deseas completar. Recuerda finalizar el trámite, ya que de no
+hacerlo, éste quedará en estado de “borrador” y no se borrará del sistema y no
+será enviado a revisión para su aprobación o rechazo
+
+4. Completa la información de tu nuevo domicilio
+En el siguiente paso, debes
+completar la información del
+nuevo domicilio de tu hogar
+registrado en el RSH.
+
+
+5. Adjunta los documentos
+Descarga el formulario de tu Solicitud de Actualización
+/ Cambio de Domicilio e Información de vivienda.
+Si eres la jefa o jefe de hogar, no tendrás que imprimir
+el formulario y firmar. Si no lo eres, deberás firmarlo y
+también la jefatura de hogar acompañando la copia de
+su cédula de identidad. Además deberás adjuntar las
+cédulas de identidad de todas las personas que firmaron
+el formulario.
+Debes adjuntar un documento que acredite tu nuevo
+Domicilio
+
+6. Confirmación y cierre
+Si adjuntaste correctamente los documentos solicitados se
+desplegará un mensaje indicando que “tu solicitud ha sido
+ingresada con éxito”.
+Debes adjuntar UN documento que acredite tu nueva dirección, el que además, debe estar a nombre de una de las
+personas que integran tu hogar.
+• Boleta de servicios básicos (luz, agua, gas, telefonía) con una antigüedad máxima de 3 meses.
+• Certificado de residencia emitido por la Junta de Vecinos.
+• Contrato de arriendo, o cualquier otro de los documentos especificados en el protocolo vigente.
+• Declaración jurada simple para acreditar residencia, documento disponible AQUÍ
+Debido a la contingencia por el Coronavirus (COVID-19), las visitas domiciliarias quedan
+postergadas hasta nuevo aviso. Las solicitudes podrán ser aprobadas si se adjuntan todos los
+documentos, y de forma excepcional, postergando la visita del encuestador o encuestadora
+municipal hasta que termine la emergencia sanitaria. En el caso de no contar con la documentación
+para acreditar residencia, podrá presentar una declaración jurada simple.
+
+¿Puedo guardar el
+avance de mi solicitud
+y volver después a
+completarlo?
+Si necesitas suspender el ingreso de información puedes utilizar la opción
+“Guardar y continuar más tarde”. Si completaste correctamente los datos se
+desplegará un mensaje que dice “Su solicitud ha sido guardada correctamente”.
+Cuando vuelvas a ingresar a la plataforma para completar la solicitud, deberás
+ir a “Estado de las solicitudes”. Seleccionar en el botón “Editar” el borrador
+de la solicitud que deseas completar. Recuerda finalizar el trámite, ya que de no
+hacerlo, éste quedará en estado de “borrador” y no se borrará del sistema y no
+será enviado a revisión para su aprobación o rechazo.
+que cambiaron al nuevo domicilio
+Si no se cambian de domicilio todas las personas de tu hogar contigo, revisa la guía
+“Solicitud de ingreso al Registro Social de Hogares a través del cambio de domicilio”.
